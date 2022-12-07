@@ -308,3 +308,24 @@ main {
     background-color: gold;
     color: #283337;
 }
+.setting_box{
+    background-color: #F3F7F4;
+    padding: 80px;
+}
+
+.setting_box h3{
+    font-size: 30px;
+    font-weight: 400;
+    margin: 20px 0;
+
+}
+.setting_box p{
+    color: #40494D;
+    line-height: 25px;
+}
+
+.setting_box h4{
+    margin-top: 30px;
+    display: flex;
+    justify-content: flex-end;
+}
